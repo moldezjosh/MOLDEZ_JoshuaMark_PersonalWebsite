@@ -1,0 +1,128 @@
+body {
+	margin: 180px 0 100px 0;
+	background-color: rgb(26,25,23);
+}
+
+.container {
+	width: 850px;
+	margin: 0 auto;
+	border-bottom: 25px;
+	background-color: rgb(255,255,255);
+}
+
+#top {
+	top: -100px;
+	position: relative;
+	margin: 0px auto;
+	width: 640px;
+	height: 52px;
+}
+#top_img img {
+	border-radius: 50%;
+	top: -125px;
+	position: relative;
+}
+
+
+#top h1 {
+	text-align: center;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	letter-spacing: 2px;
+}
+
+#top_list {
+	background-color: rgb(255,155,69);
+	width: 340px;
+	height: 30px;
+	margin-left: 110px;
+}
+#tri_left {
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	float: left;
+	border-top: 15px solid transparent;
+	border-right: 13px solid rgb(255,155,69);
+	border-bottom: 15px solid transparent;
+}
+
+#tri_right {
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	float: right;
+	border-top: 15px solid transparent;
+	border-left: 13px solid rgb(255,155,69);
+	border-bottom: 15px solid transparent;
+}
+
+#top_img { width:250px; margin: 0px auto; }
+
+#top li {
+	display: inline-block;
+	padding: 10px 0px 10px 13px;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-size: 14px;
+	letter-spacing: 2px;
+	line-height: 10px;
+	text-shadow: 0 1px 0 rgb(255,155,69);
+	font-weight: bold;
+	color: white;
+	
+}
+#top ul {
+	width: 640px;
+	height: 30px;
+	margin: 0 auto;
+	
+}
+
+h1, h2, li {
+	text-transform: uppercase;
+}
+
+.navig {
+	width: 850px;
+	height: 155px;
+	background-color: rgb(26,26,26);
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+.navig li {
+	float: left;
+	width: 160px;
+	height: 122px;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-weight: bold;
+	margin: 0 10px;
+}
+
+.navig ul {
+	list-style-type: none;
+    margin-left: 60px;
+    padding: 0;
+    overflow: hidden;
+	width: 750px;
+}
+
+.navig li a {
+	display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navig figcaption {
+	margin-top: 10px;
+	color: white;
+}
+
+
+
+
