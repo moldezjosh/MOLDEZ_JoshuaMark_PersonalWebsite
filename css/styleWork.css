@@ -1,4 +1,4 @@
-.work h2 {
+#work h2 {
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif;
 	text-align: center;
 	color: rgb(26,25,23);
@@ -6,6 +6,24 @@
 	font-size: 19px;
 }
 
-.work {
+#work {
 	margin-top: 50px;
+}
+
+.thumbnails {
+	margin-left: 40px;
+}
+
+.thumbnails li {
+	display: inline-block;
+	padding: 20px 20px 20px 20px;
+}
+
+.thumbnails img {
+	border: 1px solid black;
+	opacity: 0.8;
+}
+
+.thumbnails img:hover {
+	opacity: 1;
 }
