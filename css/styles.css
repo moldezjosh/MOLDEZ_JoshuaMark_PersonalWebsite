@@ -118,6 +118,15 @@ h1, h2, li {
     text-decoration: none;
 }
 
+.navig li a:hover {
+	filter: brightness(0) invert(1);
+	
+}
+
+.navig figcaption:hover {
+	
+}
+
 .navig figcaption {
 	margin-top: 10px;
 	color: white;
