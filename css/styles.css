@@ -101,6 +101,8 @@ h1, h2, li {
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
 	font-weight: bold;
 	margin: 0 10px;
+	font-size: 14px;
+	letter-spacing: 2px;
 }
 
 .navig ul {
@@ -126,6 +128,8 @@ h1, h2, li {
 	margin-top: 10px;
 	color: white;
 }
+
+
 
 
 
