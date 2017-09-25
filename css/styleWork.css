@@ -43,5 +43,14 @@
 	width: 500px;
 	text-align: center;
 	margin: 0 auto;
+}
+
+.social img {
+	background-color: rgb(26,25,23);
+	border-radius: 50%;
+	
+}
+.social li {
 
 }
+
