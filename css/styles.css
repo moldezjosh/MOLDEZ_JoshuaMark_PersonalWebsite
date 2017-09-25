@@ -23,7 +23,12 @@ body {
 	position: relative;
 }
 
+.border-left { float: left; margin: 13px 8px 0 0;}
 
+.border-right {
+	float: right;
+	margin-top: -16px;
+}
 #top h1 {
 	text-align: center;
 	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -39,7 +44,12 @@ body {
 	background-color: rgb(255,155,69);
 	width: 340px;
 	height: 30px;
-	margin-left: 110px;
+	overflow: hidden;
+}
+
+#topBor{
+	width: 560px;
+	height: 30px;
 }
 #tri_left {
 	width: 0px;
@@ -79,7 +89,6 @@ body {
 	width: 640px;
 	height: 30px;
 	margin: 0 auto;
-	
 }
 
 h1, h2, li {
@@ -100,12 +109,13 @@ h1, h2, li {
 	height: 122px;
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
 	font-weight: bold;
-	margin: 0 10px;
+	margin: 14px 10px;
 	font-size: 14px;
 	letter-spacing: 2px;
 }
 
 .navig ul {
+	
 	list-style-type: none;
     margin-left: 60px;
     padding: 0;
