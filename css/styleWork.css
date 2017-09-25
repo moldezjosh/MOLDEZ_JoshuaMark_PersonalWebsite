@@ -9,7 +9,11 @@
 #work {
 	margin-top: 50px;
 }
-
+.borderB {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 .thumbnails {
 	margin-left: 40px;
 }
