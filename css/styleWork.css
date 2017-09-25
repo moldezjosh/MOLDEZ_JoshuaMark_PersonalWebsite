@@ -49,6 +49,10 @@
 .social img {
 	background-color: rgb(26,25,23);
 	border-radius: 50%;
+}
+
+.social img:hover {
+	background-color: rgb(255,155,69);
 	
 }
 .social li {
