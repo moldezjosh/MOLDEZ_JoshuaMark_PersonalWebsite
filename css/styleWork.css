@@ -51,6 +51,13 @@
 	
 }
 .social li {
+	display: inline-block;
+	padding: 0 10px 0 0;
+}
 
+.social ul {
+	padding: 30px 0 0 50px;
+	margin: 0 auto;
+	width: 240px;
 }
 
