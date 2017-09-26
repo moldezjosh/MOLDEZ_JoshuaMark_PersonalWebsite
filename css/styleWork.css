@@ -76,13 +76,22 @@
 	display: inline-block;
 }
 
+#like {
+	text-align: center;
+}
+
 #like h3 {
 	text-transform: uppercase;
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
 	font-size: 14px;
 	letter-spacing: 1px;
 	font-weight: bold;
-	
+	background-color: rgb(255,155,69);
+	color: white;
+	padding: 10px 10px;
+}
+.border-like {
+	margin-right: -4px;
 }
 
 
