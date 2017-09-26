@@ -72,7 +72,7 @@
 	width: 240px;
 }
 
-#like img, h3{
+#like img, h3 {
 	display: inline-block;
 }
 
@@ -80,7 +80,10 @@
 	text-align: center;
 	margin-top: 40px;
 }
-
+#wi-like {
+	width: 565px;
+	margin: 0 auto;
+}
 #like h3 {
 	
 	text-transform: uppercase;
@@ -95,7 +98,7 @@
 
 #tri-left2 {
 	margin-top: 14px;
-	margin-right: -2px;
+	margin-right: -3px;
 	float: left;
 	width: 0px;
 	height: 0px;
@@ -117,10 +120,28 @@
 	border-bottom: 18px solid transparent;
 }
 
+
+
 .wh-like {
 	overflow: hidden;
 	width: 148px;
-	margin: 0 auto;
 }
+
+#border2-left {
+	float: left;
+	margin: 20px 10px 0 0;
+}
+
+#border2-right {
+	float: right;
+	margin: -43px 0 0 18px;
+}
+
+.border-m {
+	margin-left: -5px;
+}
+	
+
+
 
 
