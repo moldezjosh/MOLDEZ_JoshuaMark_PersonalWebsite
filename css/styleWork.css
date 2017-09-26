@@ -148,6 +148,7 @@
 	text-align: center;
 	width: 33.333%;
 	float: left;
+	margin-top: 10px;
 }
 
 .like-list ul {
@@ -160,8 +161,75 @@
 .like-list figcaption {
 	margin-top: 10px;
 }
-	
 
+#achieve img, h3 {
+	display: inline-block;
+}
+
+#achieve {
+	text-align: center;
+	margin-top: 40px;
+}
+#wi-achieve {
+	width: 565px;
+	margin: 0 auto;
+}
+#achieve h3 {
+	
+	text-transform: uppercase;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	background-color: rgb(255,155,69);
+	color: white;
+	padding: 10px 10px;
+}
+
+#tri-left3 {
+	margin-top: 14px;
+	margin-right: -10px;
+	float: left;
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	border-top: 18px solid transparent;
+	border-right: 16px solid rgb(255,155,69);
+	border-bottom: 18px solid transparent;
+}
+
+#tri-right3 {
+	margin-top: 14px;
+	margin-left: -10px;
+	float: right;
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	border-top: 18px solid transparent;
+	border-left: 16px solid rgb(255,155,69);
+	border-bottom: 18px solid transparent;
+}
+
+
+
+.wh-achieve {
+	overflow: hidden;
+	width: 175px;
+}
+
+#border3-left {
+	float: left;
+	margin: 20px 10px 0 0;
+}
+
+#border3-right {
+	float: right;
+	margin: -43px 0 0 10px;
+}
+	
+.border-m2 {
+	margin-left: -20px;
+}
 
 
 
