@@ -72,15 +72,17 @@
 	width: 240px;
 }
 
-#like img, h3 {
+#like img, h3{
 	display: inline-block;
 }
 
 #like {
 	text-align: center;
+	margin-top: 40px;
 }
 
 #like h3 {
+	
 	text-transform: uppercase;
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
 	font-size: 14px;
@@ -90,8 +92,35 @@
 	color: white;
 	padding: 10px 10px;
 }
-.border-like {
-	margin-right: -4px;
+
+#tri-left2 {
+	margin-top: 14px;
+	margin-right: -2px;
+	float: left;
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	border-top: 18px solid transparent;
+	border-right: 16px solid rgb(255,155,69);
+	border-bottom: 18px solid transparent;
+}
+
+#tri-right2 {
+	margin-top: 14px;
+	margin-left: -3px;
+	float: right;
+	width: 0px;
+	height: 0px;
+	background-color: white;
+	border-top: 18px solid transparent;
+	border-left: 16px solid rgb(255,155,69);
+	border-bottom: 18px solid transparent;
+}
+
+.wh-like {
+	overflow: hidden;
+	width: 148px;
+	margin: 0 auto;
 }
 
 
