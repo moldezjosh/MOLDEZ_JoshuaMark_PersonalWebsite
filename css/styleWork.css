@@ -140,6 +140,26 @@
 .border-m {
 	margin-left: -5px;
 }
+
+
+
+.like-list li {
+	display: inline-block;
+	text-align: center;
+	width: 33.333%;
+	float: left;
+}
+
+.like-list ul {
+	width: 640px;
+	padding-left: 0px;
+	margin: 0 auto;
+	height: 177px;
+}
+
+.like-list figcaption {
+	margin-top: 10px;
+}
 	
 
 
