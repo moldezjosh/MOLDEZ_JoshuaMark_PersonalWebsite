@@ -222,5 +222,24 @@
 	margin-left: -20px;
 }
 
+.achieve-list ul {
+	list-style-type: none;
+}
+
+.achieve-list h3 {
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 2px;
+	color: rgb(26,25,23);
+}
+
+.achieve-list p {
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	text-transform: capitalize;
+	font-size: 11px;
+}
+
 
 
