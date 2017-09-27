@@ -224,6 +224,8 @@
 
 .achieve-list ul {
 	list-style-type: none;
+	width: 640px;
+	margin: 0 auto;
 }
 
 .achieve-list h3 {
@@ -232,6 +234,7 @@
 	font-size: 14px;
 	letter-spacing: 2px;
 	color: rgb(26,25,23);
+	margin-top: 0;
 }
 
 .achieve-list p {
@@ -242,5 +245,21 @@
 	margin-top: -5px;
 }
 
+.achieve-list span {
+	margin-left: 50px;
+}
+
+.achieve-list img, .detail {
+	display: inline-block;
+	
+}
+
+.achieve-list img {
+	margin-left: 80px;
+	border-radius: 50%;
+}
+.detail {
+	margin-left: 100px;
+}
 
 
