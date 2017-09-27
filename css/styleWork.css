@@ -149,11 +149,6 @@
 	width: 33.333%;
 	float: left;
 	margin-top: 10px;
-	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
-	font-weight: bold;
-	font-size: 14px;
-	letter-spacing: 2px;
-	color: rgb(26,25,23);
 }
 
 .like-list ul {
@@ -165,6 +160,19 @@
 
 .like-list figcaption {
 	margin-top: 10px;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 2px;
+	color: rgb(26,25,23);
+}
+
+.like-list p {
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	text-transform: lowercase;
+	font-size: 11px;
+	color: black;
 }
 
 #achieve img, h3 {
