@@ -149,6 +149,17 @@ h1, h2, li {
 	font-size: 11px;
 	color: white;
  }
+ 
+#footer {
+	padding-top: 20px;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #5b5955;
+}
 
 
 
