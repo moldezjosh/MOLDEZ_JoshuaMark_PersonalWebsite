@@ -84,7 +84,6 @@ body {
 	text-shadow: 0 1px 0 rgb(255,155,69);
 	font-weight: bold;
 	color: white;
-	
 }
 #top ul {
 	width: 640px;
@@ -108,20 +107,16 @@ h1, h2, li {
 	float: left;
 	width: 160px;
 	height: 122px;
-	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
-	font-weight: bold;
 	margin: 14px 10px;
-	font-size: 14px;
-	letter-spacing: 2px;
 }
 
 .navig ul {
-	
 	list-style-type: none;
     margin-left: 60px;
     padding: 0;
     overflow: hidden;
 	width: 750px;
+	margin-top: 0;
 }
 
 .navig li a {
@@ -135,11 +130,25 @@ h1, h2, li {
 	filter: brightness(0) invert(1);
 }
 
+.navig li {
+	margin-top: 0px;
+}
+
 .navig figcaption {
 	margin-top: 10px;
 	color: white;
+	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 2px;
 }
-
+ .navig p {
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	text-transform: lowercase;
+	font-size: 11px;
+	color: white;
+ }
 
 
 
