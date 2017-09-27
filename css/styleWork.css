@@ -84,7 +84,7 @@
 	width: 565px;
 	margin: 0 auto;
 }
-#like h3 {
+.form-h3 {
 	
 	text-transform: uppercase;
 	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
@@ -177,17 +177,6 @@
 #wi-achieve {
 	width: 565px;
 	margin: 0 auto;
-}
-#achieve h3 {
-	
-	text-transform: uppercase;
-	font-family: futura-pt, Futura, "Helvetica Neue", Helvertica, Arial, sans-serif ;
-	font-size: 14px;
-	letter-spacing: 1px;
-	font-weight: bold;
-	background-color: rgb(255,155,69);
-	color: white;
-	padding: 10px 10px;
 }
 
 #tri-left3 {
