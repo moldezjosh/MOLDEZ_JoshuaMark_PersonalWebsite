@@ -27,6 +27,7 @@
 .thumbnails img {
 	border: 1px solid black;
 	opacity: 0.8;
+	transition:opacity 0.2s linear;
 }
 
 .thumbnails img:hover {
